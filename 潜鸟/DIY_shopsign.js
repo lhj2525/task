@@ -1,5 +1,5 @@
 /*
-============Quantumultx===============
+============Quantumultx==============
 [task_local]
 #店铺签到
 0 1 * * * https://raw.githubusercontent.com/Misaka09982/AutoSignMachine/master/DIY_shopsign.jss, tag=店铺签到, enabled=true
